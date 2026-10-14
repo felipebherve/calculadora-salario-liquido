@@ -2,6 +2,8 @@
 
 🇧🇷 Português · 🇺🇸 [English](README.md)
 
+🔗 **Portfólio:** este e os meus outros projetos em [felipebherve.github.io](https://felipebherve.github.io/#projects).
+
 ## Em que momento eu fiz isto
 
 Escrevi isto em **março de 2026**, enquanto terminava o curso de JavaScript da Udemy ([javascript-udemy-estudos](https://github.com/felipebherve/javascript-udemy-estudos)). Trabalhei anos com folha de pagamento e conciliação bancária, então foi a chance de transformar em código regras que eu já conhecia do trabalho.
