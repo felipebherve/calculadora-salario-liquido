@@ -2,6 +2,8 @@
 
 🇺🇸 English · 🇧🇷 [Português](README.pt-BR.md)
 
+🔗 **Portfolio:** this project and my others at [felipebherve.github.io](https://felipebherve.github.io/#projects).
+
 ## Where I was when I made this
 
 I wrote this in **March 2026**, while finishing the Udemy JavaScript course ([javascript-udemy-estudos](https://github.com/felipebherve/javascript-udemy-estudos)). I worked for years with payroll and bank reconciliation, so this was a chance to turn rules I already knew from work into code.
